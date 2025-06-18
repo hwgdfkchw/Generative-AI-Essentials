@@ -159,6 +159,51 @@ This is a Generative AI Learning Collection featuring resources I've personally 
 
 ## 📘 Other Resources
 
+### AI Basics
+ * [Navigating GenAI: An Introduction for Researchers](https://cris.utoronto.ca/event/navigating-genai-an-introduction-for-researchers-sept-19-2024/)
+     * **Includes:** Key AI concepts, applications of GenAI, challenges and risks.
+ * [MS Co-pilot – A Protected Alternative to ChatGPT](https://easi.its.utoronto.ca/ms-co-pilot-a-protected-alternative-to-chatgpt/)
+     * **Includes:** How to access and use Microsoft Copilot, information security considerations, main uses.
+ * [Conversational vs. Structured Prompting](https://promptengineering.org/a-guide-to-conversational-and-structured-prompting/)
+     * **Includes:** The difference between conversational versus structured prompting techniques, how to optimize interactions with AI chatbots.
+
+ ### Ethical and Safe Use of AI Tools
+ * [Use Artificial Intelligence Intelligently](https://security.utoronto.ca/governance/guidelines/use-ai-intelligently/)
+     * **Includes:** Guidance for everyone on recognizing privacy and information security risks and for people building or training systems with AI components.
+ * [AI Hallucinations in Practice: Tools and Techniques for Reliable Generation](https://utoronto.sharepoint.com/sites/its-easi/SharedServices/_layouts/15/stream.aspx?id=%2Fsites%2Fits%2Deasi%2FSharedServices%2FEngagement%20Coordinator%2FConnect%2BLearn%2FConnect%2BLearn%20Recordings%2FConnect%2BLearn%20%2D%20AI%20hallucinations%20in%20practice%5F%20Tools%20and%20techniques%20for%20reliable%20generation%2D20250522%5F110039%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6b869116%2D40df%2D419a%2D8975%2D5ae1456cfc8a)
+     * **Includes:** Strategies for mitigating hallucinations or incorrect responses from chatbots, covering administrative, research, and coding tasks.
+ * [Using Generative AI Ethically at Work](https://www.linkedin.com/learning/using-generative-ai-ethically-at-work/recognize-ethical-choices-with-ai?autoSkip=true&resume=false&u=76812730)
+     * **Includes:** Impact of legal and ethical considerations on GenAI use, adherence to AI regulations, identify and make ethical choices when using AI.
+ * [Cyber Security for Users of Generative Artificial Intelligence](https://www.cyber.gc.ca/en/education-community/learning-hub/courses/cyber-security-users-generative-artificial-intelligence)
+     * **Includes:** Guidance and safe use of GenAI at work, ethical concerns, risks, and limitations of GenAI, practical use of GenAI tools.
+
+ ### Literature Exploration & Summarization
+ * [Introduction to Scopus AI and Web of Science Research Assistant to Explore Literature](https://cris.utoronto.ca/event/introduction-to-scopus-ai-and-web-of-science-research-assistant-to-explore-literature-apr-9-2025/)
+     * **Includes:** Differences between AI search engines and AI chatbots, benefits and pitfalls of using AI tools in literature reviews.
+ * [From Search to Synthesis: AI Tools for Literature Discovery and Summarization](https://www.youtube.com/watch?v=5LAbLZUy_SU)
+      * **Includes:** Overview of GenAI tools for literature discovery, summarization, and synthesis.
+
+ ### Working with Data
+ * [Data Analysis: Quantitative Data](https://www.youtube.com/watch?v=DJYTtpeUGbA)
+     * **Includes:** Generating code and graphics using GenAI chatbots, exploring data and generalizing code for various models.
+ * [GenAI Tools for Data Visualization and Presenting Information](https://www.youtube.com/watch?v=RnWNTnhrHZo)
+     * **Includes:** Practical examples of leveraging LLM tools in data visualization workflows, overview of data visualization principles and discussion of GPT models for writing code and data exploration.
+ * [Qualitative Data Analysis and Artificial Intelligence in Research: Introspection in an Evolving Era](https://youtu.be/58ISUGR2ey8?si=5B5P2vSPWXWAtznP)
+     * **Includes:** Overview of AI technology in qualitative data analysis and software platforms, rigor and ethical implications of using AI in qualitative research.
+
+ ### Writing & Creating
+ * [Techniques for Supercharging Academic Writing with Generative AI](https://www-nature-com.myaccess.library.utoronto.ca/articles/s41551-024-01185-8)
+     * **Includes:** Benefits and challenges of using GenAI as a writing assistant, framework for effective AI engagement, considerations of AI ethics and policy in academic writing.
+ * [Creative and Critical Thinking with Generative AI](https://utoronto.sharepoint.com/sites/ctsi-PublicFiles/_layouts/15/stream.aspx?id=%2Fsites%2Fctsi%2DPublicFiles%2FShared%20Documents%2FCTSI%20Workshops%2F2025%20Programming%2FCTSI%20Workshop%5F%20Creative%20and%20Critical%20Thinking%20with%20Generative%20AI%2D20250130%5F130446%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E07b48955%2D4e82%2D442e%2D9de6%2D10b58ba0b30b)
+     * **Includes:** Implications of generative AI on creative and critical thinking, models and strategies for integrating AI-assisted creative and critical thinking in curriculum design.
+
+ ### Project & Time Management
+ * [Reclaiming Our Time: AI and Academic Productivity](https://www.ncfdd.org/webinars/aiacademy)
+     * **Includes:** Challenges faced by faculty of colour, especially women, due to service duties and strategies for reclaiming time using AI.
+ * [How to Boost Your Productivity with AI Tools](https://www.linkedin.com/learning-login/share?account=76812730&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fhow-to-boost-your-productivity-with-ai-tools%3Ftrk%3Dshare_ent_url%26shareId%3DO1lG08XQR424abD%252Fq0dKuA%253D%253D)
+     * **Includes:** Framework for incorporating AI into everyday tasks and useful prompts to streamline tasks and working more efficiently.
+ </div>
+
 ### Machine Learning Essentials
 
 - [Reinforcement Learning](https://github.com/victorfiz/ucl_ml/blob/main/reinforcement_learning/Learning_Guide_RL.pdf): a guide by Nishant Aklecha
