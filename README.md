@@ -171,6 +171,41 @@ This is a Generative AI Learning Collection featuring resources I've personally 
 - [Gabriel Mongaras](https://www.youtube.com/@gabrielmongaras/videos)
 - [Information Theory, Inference, and Learning Algorithms – David MacKay](https://www.inference.org.uk/itprnn/book.pdf)
 
+# Top 15 YouTube Channels to Level Up Your Machine Learning Skills
+
+### YouTube Channels
+
+- [**Two Minute Papers**](https://www.youtube.com/@TwoMinutePapers)
+  * **Description:** Hosted by Konrad Kording, this channel summarizes the latest research papers in short videos, ideal for staying updated on new developments.
+- [**Sentdex**](https://www.youtube.com/@sentdex)
+  * **Description:** Offers a wide range of programming tutorials on machine learning, Python, finance, data analysis, robotics, and more, aimed at beginners to intermediate programmers.
+- [**DeepLearningAI**](https://www.youtube.com/@DeepLearningAI)
+  * **Description:** Founded by Andrew Ng, this channel provides educational content including lectures, tutorials, and expert interviews, covering the latest trends in ML and DL.
+- [**Artificial Intelligence — All in One**](https://www.youtube.com/@ArtificialIntelligenceAllinOne)
+  * **Description:** A comprehensive resource for AI fundamentals, machine learning, deep learning, computer vision, and NLP, accessible to all skill levels.
+- [**Kaggle**](https://www.youtube.com/@KaggleCommunity)
+  * **Description:** Covers tutorials for various skill levels, features interviews with industry gurus, and shares winning solutions from Kaggle competitions.
+- [**Siraj Raval**](https://www.youtube.com/@sirajraval)
+  * **Description:** Explores topics in machine learning, deep learning, computer vision, and NLP with a fun and engaging teaching style.
+- [**Jeremy Howard**](https://www.youtube.com/@jeremyphoward)
+  * **Description:** Co-founder of fast.ai, his channel aims to make AI accessible to everyone with easy-to-understand video lectures.
+- [**Applied AI Course**](https://www.youtube.com/@AppliedAICourse)
+  * **Description:** Focuses on practical machine learning knowledge, teaching core ideas through real-world case studies to build AI solutions.
+- [**Krish Naik**](https://www.youtube.com/@krishnkhd)
+  * **Description:** An experienced educator who explains various ML, DL, and AI topics with real-world problem scenarios, making AI familiar to everyone.
+- [**StatQuest with Josh Starmer**](https://www.youtube.com/@StatQuest)
+  * **Description:** Provides educational content on statistics, data science, and machine learning, breaking down complex concepts and their mathematical underpinnings.
+- [**Daniel Bourke**](https://www.youtube.com/@mrdbourke)
+  * **Description:** A self-taught machine learning engineer who guides viewers from beginner to master in ML, including PyTorch.
+- [**Data School**](https://www.youtube.com/@dataschool)
+  * **Description:** Kevin Markham's channel offers in-depth tutorials and webinars with clear, concise, and step-by-step explanations of complex data science concepts.
+- [**3Blue1Brown**](https://www.youtube.com/@3blue1brown)
+  * **Description:** Grant Sanderson explains complex mathematical and machine learning concepts through appealing and intuitive animations for a broad audience.
+- [**Jeff Heaton**](https://www.youtube.com/@jeffheaton)
+  * **Description:** Uses real-world examples to explain machine learning, deep learning, and AI concepts, serving as a great primer for beginners.
+- [**Machine Learning Street Talk**](https://www.youtube.com/@MachineLearningStreetTalk)
+  * **Description:** Managed by Tim Scarfe, this channel covers the latest developments in AI and ML with in-depth analysis and interviews with leading thinkers.
+
 ### Courses from DeepLearning.AI
 
 - [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/)
