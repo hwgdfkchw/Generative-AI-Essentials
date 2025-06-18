@@ -161,52 +161,15 @@ This is a Generative AI Learning Collection featuring resources I've personally 
 
 ### Machine Learning Essentials
 
-- [Mathematics for ML](https://youtu.be/oMY2uKjx_Zc)
-- [Linear Regression](https://www.youtube.com/watch?v=-OVHiTZofN0&list=PL89V0TQq5GLpnZlZMeUa8EAmM-v9QqXqQ)
-- [Logistic Regression](https://www.youtube.com/watch?v=0zlDF9A4UiY&list=PL89V0TQq5GLrK1_bXqci8lkaikCliD4I6)
-- [Data Science Basics](https://youtu.be/maxyUZGB3QY), [Alternative Link](https://youtu.be/Y6PEpkEdXDQ)
-- [Isotonic Regression](https://youtu.be/lo3rUyk9qi0)
-- [ML Metrics for Classification](https://youtu.be/E2HRSJKU-_4)
-- [Categorical Variable Encoding Strategies](https://youtu.be/MKuAQv6ybc8)
-- [Naive Bayes Classifier](https://youtu.be/IvTCdrx1SHQ)
-- [Dimensionality Reduction (PCA, AutoEncoders)](https://www.youtube.com/watch?v=bjaTz-7BnMY)
-- [Entropy, Cross-Entropy, KL-Divergence](https://www.youtube.com/watch?v=hJ8-NauTj2s)
-- [Probability, Model Calibration](https://youtu.be/rG2EfFOXyg0)
-- [Data Drift Detection, Model Monitoring](https://youtu.be/tQjRQWfYQ10)
-- [Dynamic Pricing in Ecommerce](https://youtu.be/a_CXpnsvPa0)
-- [Training Embeddings for Recommendation Systems](https://youtu.be/DN4S96oHRhE)
-- [ANN in Recsys (Annoy)](https://youtu.be/DSQOrBTqmYA)
-- [ANN in Recsys (Product Quantizer)](https://youtu.be/50PNumB7s3U)
-- [Model-Based Recommendations @ Twitter](https://youtu.be/Xqo8fwgjxW4)
-- [PID Controller for Diversity in Recommender Systems](https://youtu.be/laTxgnzjfR0)
-- [Instagram’s Recommendation System](https://youtu.be/Myna6rnmCG8)
-- [Train Neural Networks to Approximate Any Function](https://youtu.be/4PvGKuqRQTE)
-- [BERT for Embeddings](https://youtu.be/v-0J7o-nDBE)
-- [Twitter's Recommendation Algorithm](https://youtu.be/IhGq9jgcxFM)
-- [Model Compression with Knowledge Distillation](https://youtu.be/1N_EBJUOjVU)
-- [Conversational AI (Chat-GPT)](https://youtu.be/JKoJ5YIr2O4)
-- [Dual Nature of Conversational LLMs](https://youtu.be/MHfzoHC4kek)
-- [Enhancing LLMs](https://youtu.be/mF7OM_XU2S4)
-- [Falcon & LLAMA-2](https://youtu.be/CxqZ5j3xlt0), [Second Video](https://youtu.be/8cc4bJtycOA)
-- [Supercharging LLama-2 & Falcon](https://youtu.be/paGr-t1wSOQ), [Alternate Link](https://youtu.be/lo11Iczb0Vc)
-- [SRKGPT AI with Shahrukh Khan's Style](https://youtu.be/gYPwx0DR7zc)
-- [LinkedIn’s CTR Modeling](https://youtu.be/7l0HLYVFEuU)
-- [Meituan’s Two-Tower Recsys Model](https://youtu.be/UhpbTSbi3lI)
-- [Twitter & Instagram Recommender Systems](https://youtu.be/PaDsiJCPCXQ)
-- [Scalable Query-Item Two-Tower Model](https://youtu.be/o-pZk5R0TZg)
-- [Overcoming Biases in Recsys](https://youtu.be/oGb_mIdO0tA)
-- [Evolution of Recsys](https://youtu.be/lgoyJn7MsH8)
-- [Multi-Armed Bandit Strategies](https://youtu.be/2A5f3GrX0dA)
-- [Uplift Modeling to Detect Causal Effect](https://youtu.be/rKzG0Ct_ReA)
-- [Netflix’s Unified Recommendation ML Model](https://youtu.be/OKmv9sUrvk8)
-- [Netflix’s Calibrated Recommendations](https://youtu.be/DOWXNrBpO4w)
-- [Intro to GANs & Stable Diffusion](https://youtu.be/KUeq-wszG80)
-- [PySpark Essentials](https://youtu.be/aruptWppgSs)
-- [LinkedIn's Budget Pacing for Targeted Ads](https://youtu.be/R4EZ92VJvSI)
-- [Detecting Buyer-side Returns Fraud](https://youtu.be/as4i1tUo0EA)
-- [ML System to Combat Counterfeit Fraud in E-Commerce](https://youtu.be/YQZBgvLB_EQ)
-- [Transparent Machine Learning with GenAI](https://youtu.be/PPl0MRuCKLo)
-- [Pinterest Ranking: GBDT to Deep Learning](https://youtu.be/WQj8QtjC3gA)
+- [Reinforcement Learning](https://github.com/victorfiz/ucl_ml/blob/main/reinforcement_learning/Learning_Guide_RL.pdf): a guide by Nishant Aklecha
+- [LLM Visualisation](https://bbycroft.net/llm)
+- [Chip Huyen Blog](https://huyenchip.com/blog/)
+- [Lil'Log Blog](https://lilianweng.github.io/)
+- [All of Deep Learning in 1 hour](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Simons Institute](https://www.youtube.com/@SimonsInstituteTOC/streams)
+- [Phil Wang Github – Architecture Implementations](https://github.com/lucidrains)
+- [Gabriel Mongaras](https://www.youtube.com/@gabrielmongaras/videos)
+- [Information Theory, Inference, and Learning Algorithms – David MacKay](https://www.inference.org.uk/itprnn/book.pdf)
 
 ### Courses from DeepLearning.AI
 
@@ -219,6 +182,18 @@ This is a Generative AI Learning Collection featuring resources I've personally 
 - [Natural Language Processing Specialization](https://www.deeplearning.ai/nlp-specialization/)
 - [Generative Adversarial Networks](https://www.deeplearning.ai/generative-adversarial-networks/)
 - [AI Ethics](https://www.deeplearning.ai/ai-ethics/)
+
+# UCL Machine Learning MSc
+This is an archive of lectures, resources, and coursework from my time at UCL.
+
+### Maybe if you are a student
+- [Probabilistic and Unsupervised Learning](https://github.com/victorfiz/ucl_ml/blob/main/unsupervised_learning/Probabilistic%20and%20Unsupervised%20Learning.pdf)
+- [Approximate Inference](https://github.com/victorfiz/ucl_ml/blob/main/approximate_inference/Approximate_Inference.pdf)
+- [Advanced](https://github.com/victorfiz/ucl_ml/blob/main/advanced_topics/kernels.pdf) [Topics in Machine Learning](https://github.com/victorfiz/ucl_ml/blob/main/advanced_topics/convex-optimisation.pdf)
+- [Supervised Learning](https://github.com/victorfiz/ucl_ml/blob/main/supervised_learning/Supervised_Learning_Cheat_Sheet.pdf)
+- [Bayesian Deep Learning](https://github.com/victorfiz/ucl_ml/tree/main/bayesian_deep_learning/Bayesian%20Deep%20Learning)
+- [Reinforcement Learning](https://github.com/victorfiz/ucl_ml/tree/main/reinforcement_learning)
+- [ML Seminar: GPs, Belief Prop, Norm Flows, Meta Learning](https://github.com/victorfiz/ucl_ml/blob/main/ml-seminar/machine-learning-seminar.pdf)
 
 ### Extra Resources
 
